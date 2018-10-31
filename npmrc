@@ -1,3 +1,0 @@
-registry=https://npm.banno-internal.com/
-@banno:registry=https://npm.banno-internal.com/
-cafile=/root/npm_certs.pem
